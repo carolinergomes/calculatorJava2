@@ -12,7 +12,7 @@ import com.example.projetoaula.model.Resultado;
 import org.springframework.http.HttpStatus;
 
 @RestController
-@RequestMapping(value = "greeting")
+@RequestMapping(value = "g")
 
 public class GreetingController {
 
